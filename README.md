@@ -11,7 +11,7 @@
 ## 🎬 로봇손 실시간 제어 실증 데모 (Robotic Hand in Action)
 
 <div align="center">
-  <img src="./media/demo_hand_keyboard.webp" width="720" alt="로봇손 키보드 제어 실시간 시연">
+  <img src="./media/demo_hand_keyboard.webp" width="400" alt="로봇손 키보드 제어 실시간 시연">
   <p><em>🎬 키보드 실시간 제어 및 프리셋 제스처 시연 — 자동 반복 재생 (무음)</em></p>
 </div>
 
@@ -20,7 +20,7 @@
 
 <div align="center">
   <video src="https://github.com/user-attachments/assets/23737593-fa2b-4247-a8a7-7e8792eb345a"
-         controls width="240"></video>
+         controls width="400"></video>
 </div>
 
 </details>
