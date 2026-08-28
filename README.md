@@ -7,6 +7,7 @@
 [![ROS 2](https://img.shields.io/badge/ROS_2-Humble-blue.svg)](https://docs.ros.org/en/humble/)
 [![Python](https://img.shields.io/badge/python-3.10%2B-green.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-Apache_2.0-lightgrey.svg)](./LICENSE)
+[![DOI](https://zenodo.org/badge/1349140823.svg)](https://doi.org/10.5281/zenodo.22138592)
 
 ## 🎬 로봇손 실시간 제어 실증 데모 (Robotic Hand in Action)
 
