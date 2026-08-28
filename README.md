@@ -10,15 +10,12 @@
 
 ## 🎬 로봇손 실시간 제어 실증 데모 (Robotic Hand in Action)
 
-<!-- 재생 플레이어로 바꾸려면: GitHub 웹 편집기에서 media/ 의 mp4 를 이 자리에
-     끌어다 놓아 발급되는 https://github.com/user-attachments/assets/... 주소
-     한 줄만 남기고, 아래 썸네일 링크와 설명 문단을 지우십시오. -->
-
-[<img src="./media/로봇손_키보드제어_시연.mp4" width="240" alt="로봇손 키보드 제어 시연" />]
-
-40.8초 분량의 시연 영상입니다(위 이미지를 누르면 원본 파일로 이동). `src/hand_keyboard.py` 로
-프리셋 제스처(보·주먹·브이·러브·총·숫자)와 손가락 단계 순환을 순차 실행한 장면이며,
-영상 파일은 [`media/`](./media/) 폴더에 있습니다.
+<div align="center">
+  <video src="./media/로봇손_키보드제어_시연.mp4" controls="controls" width="100%" style="max-width: 800px;">
+    Your browser does not support the video tag.
+  </video>
+  <p><em>🎬 로봇손 실시간 제어 실증 데모 (40.8초 · 키보드 제어 및 프리셋 제스처 시연)</em></p>
+</div>
 
 ## 1. 프로젝트 개요 (Project Overview)
 
