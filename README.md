@@ -11,10 +11,19 @@
 ## 🎬 로봇손 실시간 제어 실증 데모 (Robotic Hand in Action)
 
 <div align="center">
-  <video src="https://github.com/user-attachments/assets/23737593-fa2b-4247-a8a7-7e8792eb345a"
-         autoplay loop muted playsinline controls width="800"></video>
-  <p><em>🎬 로봇손 실시간 제어 실증 데모 (40.8초 · 키보드 제어 및 프리셋 제스처 시연)</em></p>
+  <img src="./media/demo_hand_keyboard.webp" width="720" alt="로봇손 키보드 제어 실시간 시연">
+  <p><em>🎬 키보드 실시간 제어 및 프리셋 제스처 시연 — 자동 반복 재생 (무음)</em></p>
 </div>
+
+<details>
+<summary><strong>▶ 음성 포함 원본 영상 보기 (40.8초)</strong></summary>
+
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/23737593-fa2b-4247-a8a7-7e8792eb345a"
+         controls width="800"></video>
+</div>
+
+</details>
 
 ## 1. 프로젝트 개요 (Project Overview)
 
