@@ -238,7 +238,3 @@ python3 src/hand_tracking_control.py   # 경로 B(컨트롤러 노드) 기동 �
 4. **Modbus Application Protocol Specification V1.1b3** — RTU 프레이밍 및 슬레이브 주소 규격. https://www.modbus.org/specs.php
 5. **Python `termios` / `tty` 표준 라이브러리 문서** — POSIX 터미널 raw 모드 전환 및 속성 복원. https://docs.python.org/3/library/termios.html
 6. **Google MediaPipe Hands** — 21개 손 관절 추정 모델(선택 기능 근거). https://ai.google.dev/edge/mediapipe/solutions/vision/hand_landmarker
-
-
-# -I : 본문 없이 응답 헤더만 요청  /  -L : 리다이렉트 추적
-curl -IL "https://raw.githubusercontent.com/akffkdzkdngmrdn87/BrainCo-Revo2-Hand_Ubuntu-ROS2/main/media/%EB%A1%9C%EB%B4%87%EC%86%90_%ED%82%A4%EB%B3%B4%EB%93%9C%EC%A0%9C%EC%96%B4_%EC%8B%9C%EC%97%B0.mp4"
