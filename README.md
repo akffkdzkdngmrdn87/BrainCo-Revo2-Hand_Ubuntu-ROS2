@@ -11,9 +11,8 @@
 ## 🎬 로봇손 실시간 제어 실증 데모 (Robotic Hand in Action)
 
 <div align="center">
-  <video src="./media/로봇손_키보드제어_시연.mp4" controls="controls" width="100%" style="max-width: 800px;">
-    Your browser does not support the video tag.
-  </video>
+  <video src="여기에-복사한-URL-을-붙여넣으십시오"
+         autoplay loop muted playsinline controls width="800"></video>
   <p><em>🎬 로봇손 실시간 제어 실증 데모 (40.8초 · 키보드 제어 및 프리셋 제스처 시연)</em></p>
 </div>
 
