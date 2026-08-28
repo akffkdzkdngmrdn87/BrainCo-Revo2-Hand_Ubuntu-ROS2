@@ -11,7 +11,7 @@
 ## 🎬 로봇손 실시간 제어 실증 데모 (Robotic Hand in Action)
 
 <div align="center">
-  <video src="https://raw.githubusercontent.com/akffkdzkdngmrdn87/BrainCo-Revo2-Hand_Ubuntu-ROS2/main/media/%EB%A1%9C%EB%B4%87%EC%86%90_%ED%82%A4%EB%B3%B4%EB%93%9C%EC%A0%9C%EC%96%B4_%EC%8B%9C%EC%97%B0.mp4"
+  <video src="https://raw.githubusercontent.com/akffkdzkdngmrdn87/BrainCo-Revo2-Hand_Ubuntu-ROS2/main/media/로봇손_키보드제어_시연.mp4"
          autoplay loop muted playsinline controls width="800"></video>
   <p><em>🎬 로봇손 실시간 제어 실증 데모 (40.8초 · 키보드 제어 및 프리셋 제스처 시연)</em><br>
   <em>※ 브라우저 정책상 자동재생 시 음소거로 시작됩니다. 음성은 재생바에서 음소거를 해제하십시오.</em></p>
