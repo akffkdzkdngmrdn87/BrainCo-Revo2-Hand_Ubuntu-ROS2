@@ -187,7 +187,7 @@ currents: [0,0,0,0,0,0], pwms: [0,0,0,0,0,0], durations: [500,500,500,500,500,50
 
 ### 4.7 [선택] 카메라 손추적 연동
 
-`src/hand_tracking_control.py` 는 웹캠으로 사람의 손 관절을 추정하여 로봇 손이 추종하도록 합니다. 별도 의존성이 필요하며, **본 환경에서는 미검증 상태**입니다.
+`src/hand_tracking_control.py` 는 웹캠으로 사람의 손 관절을 추정하여 로봇 손이 추종하도록 합니다. 별도 의존성이 필요하며, https://github.com/akffkdzkdngmrdn87/BrainCo-Revo2-Hand_Camera-Tracking 여기에서 확인할 수 있습니다.
 
 ```bash
 pip3 install opencv-python mediapipe
